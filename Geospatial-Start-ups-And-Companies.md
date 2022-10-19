@@ -109,3 +109,4 @@
 |   [Yelp](http://yelp.com/)    |   Local discovery |   San Francisco, CA   |   US  |   2004    |
 |   [Balad](http://balad.ir/)    |   Maps |   Tehran   |   Iran  |   2017    |
 |   [GeoSpoc](https://geospoc.com/)    |   Maps |   Pune, MH   |   India  |   2015    |
+|   [UnderScope Map](https://www.underscopemap.com/)    |   Location Big Data |   Berlin   |   Germany  |   2020    |
